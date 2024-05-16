@@ -1,0 +1,1 @@
+FROM registry.hub.docker.com/darthsim/imgproxy:latest
